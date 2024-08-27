@@ -1,0 +1,47 @@
+.container2{
+    background-color: bisque;
+}
+
+.home{
+    position: relative;
+    width:108%;
+    height:100%;
+    /* background-color: rgb(183, 201, 216); */
+    padding:100px;
+    background-size: cover;
+    background-position: center;    
+}
+
+img{
+    border-radius: 100px;
+}
+
+.card:hover{
+    background-color:aqua;
+}
+
+.contact{
+    font-weight: 500;
+}
+.para{
+    padding-right: 20px;
+}
+
+.card.pro:hover{
+    background-color: rgb(181, 136, 223);
+}
+.social-icon i{
+    color:rgb(12, 12, 229);
+    padding: 10px;
+    font-size: 50px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+}
