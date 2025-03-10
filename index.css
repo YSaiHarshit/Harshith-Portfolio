@@ -45,3 +45,8 @@ img{
     position: sticky;
     top: 0;
 }
+
+.button:hover a {
+    color: white !important;
+  }
+  
