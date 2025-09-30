@@ -47,14 +47,7 @@ img{
 }
 
 .custom-btn {
-  border: 2px solid #dc3545; 
-  color: #dc3545; 
   font-size: xx-large;
-}
-
-.custom-btn:hover {
-  color: white;     
-  background-color: #dc3545;
 }
 
 .custom-btn a {
